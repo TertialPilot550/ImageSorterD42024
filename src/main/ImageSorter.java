@@ -24,7 +24,11 @@ public class ImageSorter {
 	 */
 
 	// Select the first image ID to open
-	private static final int START_INDEX = 27000; // REPLACE ME TODO
+	// Samuel McDaniel: 26,925–33,656
+	// pace: ~2700 per hour
+	// range: 6,731
+	// total completion time estimation: 2.5 hours
+	private static final int START_INDEX = 29169; // REPLACE ME TODO
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
