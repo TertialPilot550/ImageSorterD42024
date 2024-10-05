@@ -13,4 +13,4 @@ The program will make three subfolders within the /png folder. It is important t
 - A key press of 1 will move the image into the /png/goodImages subfolder.
 - A key press of 2 will move the image into the /png/badImages subfolder.
 - A key press of 3 will move the image into the /png/otherImages subfolder, for later review.
-- A key press of q, or closing the window, will quit the program.
+- A key press of u will undo the last image operation, and present it again for re-assignment
