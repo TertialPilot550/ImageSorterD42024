@@ -129,7 +129,6 @@ public class SortFrame extends JFrame implements KeyListener {
 	 */
 	private BufferedImage loadTestImageNumber(int number) {
 		String filepath = SOURCE_IMAGE_DIRECTORY + "/" + number + ".png";
-		System.out.println(filepath);
 		return Util.loadImage(filepath);
 	}
 
