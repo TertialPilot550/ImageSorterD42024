@@ -4,7 +4,7 @@ Small Java program to help sort graphs :)
 Instructions:
 - place the '/png' folder containing the graph images you want to sort into the project directory (not         /src)
 - make sure the folder is still named '/png'. I recommend placing only your portion of the images into the folder.
-- replace the START_INDEX variable with the first Image ID you would like to open
+- replace the START_INDEX variable in the ImageSorter.java file with the first Image ID you would like to open
 - run the program.
   
 The program will make three subfolders within the /png folder. It is important that the base folder is named /png.
